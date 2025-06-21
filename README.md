@@ -1,4 +1,4 @@
-# Fake News Detection using Machine Learning
+# 📄 Fake News Detection using Machine Learning
 
 A machine learning project that classifies news articles as fake or real using various algorithms including Naive Bayes, Logistic Regression, and Random Forest.
 
@@ -37,8 +37,7 @@ nltk
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/fake-news-detection.git
-cd fake-news-detection
+git clone https://github.com/Khushi-7git/FAKE-NEWS-DETECTION-.git
 ```
 
 2. Install required packages:
